@@ -1,11 +1,10 @@
-
 import React, { useState } from 'react';
 import { getStudyHelp } from '../services/geminiService';
 import { SparklesIcon, CloseIcon } from './icons';
-import { Assignment } from '../types';
+import { StudentAssignment } from '../types';
 
 interface StudyBuddyProps {
-  assignment: Assignment;
+  assignment: StudentAssignment;
   onClose: () => void;
 }
 

@@ -1,5 +1,5 @@
 {
-  "name": "Student Hub",
-  "description": "An application for middle school students to communicate with teachers, view instructions, assignments, and get AI-powered help.",
+  "name": "Classroom Connect",
+  "description": "An advanced platform for students to connect with teachers, manage assignments, collaborate in forums, and leverage AI-powered tools like the Study Planner.",
   "requestFramePermissions": []
 }
