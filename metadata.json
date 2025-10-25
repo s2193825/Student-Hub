@@ -1,0 +1,5 @@
+{
+  "name": "Student Hub",
+  "description": "An application for middle school students to communicate with teachers, view instructions, assignments, and get AI-powered help.",
+  "requestFramePermissions": []
+}
